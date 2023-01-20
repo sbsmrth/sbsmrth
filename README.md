@@ -9,6 +9,7 @@
   <img src="https://i.imgur.com/GN5fCrw.png" alt="css icon" width=65 height=65> 
   <img src="https://i.imgur.com/zcjFg13.png" alt="ts icon" width=67 height=67> 
   <img src="https://i.imgur.com/zhHBcmu.png" alt="bootstrap icon" width=68 height=68>
+  <img src="https://imgur.com/JZsamMo.png" alt="react icon" width=65> 
 </p>
 
 <h3 align="center">
