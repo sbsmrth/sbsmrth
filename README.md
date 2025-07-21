@@ -17,8 +17,8 @@
 const andres = {
     location: "Colombia 🇨🇴",
     currentRole: "Software Developer",
-    currentlyLearning: ["NestJS", "Go", "IT Security"],
-    askMeAbout: ["Full Stack Development", "React", "Vue", "Next JS", "Node JS", "AWS"],
+    currentlyLearning: ["Go", "IT Security"],
+    askMeAbout: ["Full Stack Development", "React", "Nest JS", "Next JS", "Node JS", "AWS"],
     funFact: "I turn coffee into code ☕️➡️💻",
     availableForHire: true
 };
@@ -27,7 +27,7 @@ const andres = {
 ## 🌟 What I'm Up To
 
 - 🔭 Currently working on **exciting full-stack projects**
-- 🌱 Learning **NestJS, Go & IT Security**
+- 🌱 Learning **Go & IT Security**
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **Full Stack Development**
 - 📫 How to reach me: **LinkedIn below!**
@@ -43,12 +43,12 @@ const andres = {
 
 ### 🔧 Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,python,mongodb,mysql,postgresql" />
 </p>
 
 ### 🔨 Tools & Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws" />
 </p>
 
 ---
